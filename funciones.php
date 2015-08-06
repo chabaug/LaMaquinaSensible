@@ -2,6 +2,8 @@
 ## funciones.php ##
 include('constantes.php');
 
+
+//COMENTARIOO
 function selector_horas() 
 {
 	for($i = 1; $i <= 24;$i++)
