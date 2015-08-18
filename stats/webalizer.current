@@ -1,0 +1,658 @@
+# Webalizer V2.21-02 Incremental Data - 07/28/2015 20:49:43
+2015 7 28 20 49 43
+6024 2750 51 107 52 32 48920292 1767 138 0
+3 2 490 1 28
+522 298 3639826 4 149 11
+847 333 5385286 5 278 17
+792 344 2086686 8 176 10
+138 84 450365 4 51 6
+1529 541 2205179 5 377 15
+402 97 923936 13 104 15
+148 81 462268 5 33 6
+13 12 176615 4 5 3
+4 3 35048 3 3 2
+7 6 70127 5 6 4
+105 65 299874 4 43 7
+8 6 70121 4 6 4
+170 150 673982 6 78 6
+957 441 19269758 2 310 5
+3 2 818 2 2 2
+16 10 1355301 1 5 1
+11 10 1133419 1 5 1
+21 18 2195631 1 9 2
+183 123 4834139 3 57 4
+29 27 2208787 3 17 4
+3 2 818 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+100 89 1438250 1 43 3
+4 2 1027 3 2 2
+6 3 1528 3 3 3
+6 3 1503 3 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+220 139 1879595 54
+271 64 260693 63
+728 270 9351153 173
+377 221 8079799 158
+68 32 106628 28
+2 2 34547 2
+5 4 3734 4
+287 130 702157 64
+415 146 306462 128
+381 189 2563820 130
+741 363 5023638 228
+493 134 953640 101
+126 51 4537793 34
+213 112 748462 47
+477 142 727626 125
+163 108 1022570 58
+74 20 112722 16
+96 40 471289 38
+2 2 34547 2
+230 125 2963758 52
+224 190 3540251 92
+125 113 2721075 55
+200 67 1285621 80
+106 86 1488712 35
+0
+0
+0
+2750
+0
+0
+0
+0
+0
+3
+0
+8
+43
+0
+3155
+0
+0
+0
+0
+0
+0
+62
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+# -urls- 
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.8.16.custom.css
+0 25 0 124109 0 0
+/phpmyadmin/themes/pmahomme/img/s_notice.png
+1 18 0 10064 0 0
+/phpmyadmin/js/makegrid.js
+0 69 0 113978 0 0
+/phpmyadmin/main.php
+0 22 0 251852 2 0
+/fonts/archivonarrow.woff
+0 12 0 278377 0 0
+/funciones.php
+0 1 0 983 0 0
+/phpmyadmin/js/codemirror/lib/codemirror.js
+0 113 0 312017 0 0
+/
+0 75 0 24602 61 15
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+1 21 0 90960 0 0
+/phpmyadmin/version_check.php
+0 22 0 1168 0 1
+/phpmyadmin/themes/pmahomme/img/s_asci.png
+1 17 0 2760 0 0
+/local_profile.php
+0 105 0 70125 0 6
+/phpmyadmin/js/jquery/jquery.sprintf.js
+0 20 0 7819 0 0
+/phpmyadmin/themes/pmahomme/img/error.ico
+0 12 0 34570 0 0
+/phpmyadmin/js/common.js
+0 48 0 25100 0 0
+/phpmyadmin/themes/pmahomme/img/s_passwd.png
+1 17 0 5295 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 7 0 707 0 0
+/phpmyadmin/js/jquery/timepicker.js
+0 98 0 89248 0 0
+/phpmyadmin/themes/dot.gif
+1 27 0 731 0 0
+/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif
+1 7 0 12670 0 0
+/bg/bg1.jpg
+1 82 0 28574465 0 0
+/phpmyadmin/tbl_addfield.php
+0 10 0 43201 0 0
+/phpmyadmin/tbl_create.php
+0 37 0 1712828 2 3
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_flat_75_ffffff_40x100.png
+1 10 0 1780 0 0
+/phpmyadmin/
+0 79 0 103334 11 0
+/phpmyadmin/tbl_sql.php
+0 13 0 70342 2 0
+/phpmyadmin/js/gis_data_editor.js
+0 99 0 30285 0 0
+/images/
+0 34 0 1129557 2 2
+/phpmyadmin/db_sql.php
+0 3 0 8746 0 0
+/phpmyadmin/server_databases.php
+0 4 0 22790 1 0
+/phpmyadmin/tbl_change.php
+0 7 0 50830 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_dadada_1x400.png
+1 5 0 555 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png
+1 7 0 1260 0 0
+/phpmyadmin/js/tbl_change.js
+0 102 0 37314 0 0
+/images/center.gif
+1 123 0 1795488 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+1 19 0 3540 0 0
+/phpmyadmin/themes/pmahomme/img/b_calendar.png
+1 2 0 1276 0 0
+/phpmyadmin/js/messages.php
+0 109 0 475144 3 8
+/registro.php
+0 2 0 1226 1 1
+/phpmyadmin/js/db_structure.js
+0 4 0 10548 0 0
+/phpmyadmin/navigation.php
+0 300 0 262433 4 18
+/phpmyadmin/themes/pmahomme/img/input_bg.gif
+1 22 0 2890 0 0
+/phpmyadmin/themes/pmahomme/img/s_lang.png
+1 17 0 11325 0 0
+/phpmyadmin/js/update-location.js
+0 268 0 8696 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_65_ffffff_1x400.png
+1 3 0 315 0 0
+/images/sonido.jpg
+1 9 0 89096 0 0
+/fonts/bebas.woff
+0 53 0 592906 0 0
+/phpmyadmin/themes/pmahomme/img/s_error.png
+1 21 0 11952 0 0
+/phpmyadmin/themes/pmahomme/img/tab_bg.png
+1 19 0 1905 0 0
+/phpmyadmin/js/cross_framing_protection.js
+0 226 0 4025 0 0
+/phpmyadmin/themes/pmahomme/img/tab_hover_bg.png
+1 15 0 7028 0 0
+/phpmyadmin/js/config.js
+0 183 0 64375 0 0
+/phpmyadmin/themes/pmahomme/img/s_fulltext.png
+1 17 0 2702 0 0
+/phpmyadmin/js/navigation.js
+0 52 0 23302 0 0
+/images/header.gif
+1 70 0 1149540 0 0
+/abm_local.php
+0 27 0 27566 0 1
+/phpmyadmin/js/import.js
+0 5 0 1032 0 0
+/phpmyadmin/js/jquery/jquery-1.6.2+fix-9521.js
+0 314 0 835432 0 0
+/phpmyadmin/js/querywindow.js
+0 2 0 1035 0 0
+/phpmyadmin/tbl_alter.php
+0 28 0 147708 1 1
+/phpmyadmin/tbl_operations.php
+0 4 0 141093 0 0
+/phpmyadmin/themes/pmahomme/img/col_drop.png
+1 16 0 1848 0 0
+/phpmyadmin/js/jquery/jquery.qtip-1.0.0-rc3.js
+0 268 0 251988 0 0
+/buscador.php
+0 348 0 420754 24 14
+/phpmyadmin/print.css
+0 25 0 5744 0 0
+/phpmyadmin/js/functions.js
+0 268 0 342161 0 0
+/index2.php
+0 9 0 31742 2 2
+/phpmyadmin/themes/pmahomme/img/sprites.png
+1 22 0 650947 0 0
+/phpmyadmin/themes/pmahomme/img/b_newdb.png
+1 3 0 1950 0 0
+/phpmyadmin/server_export.php
+0 1 0 6784 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblops.png
+1 17 0 9270 0 0
+/phpmyadmin/js/get_image.js.php
+0 44 0 52652 3 4
+/phpmyadmin/tbl_replace.php
+0 29 0 39833 0 0
+/phpmyadmin/js/indexes.js
+0 136 0 5694 0 0
+/phpmyadmin/js/export.js
+0 10 0 6594 0 0
+/phpmyadmin/sql.php
+0 149 0 2245574 5 1
+/phpmyadmin/themes/pmahomme/img/col_pointer.png
+1 16 0 1582 0 0
+/procesa_registro.php
+0 4 0 220 0 0
+/phpmyadmin/import.php
+0 9 0 18347 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_454545_256x240.png
+1 3 0 13107 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 103 0 1350719 2 3
+/phpmyadmin/themes/pmahomme/img/s_theme.png
+1 17 0 12420 0 0
+/phpmyadmin/js/codemirror/mode/mysql/mysql.js
+0 113 0 53887 0 0
+/phpmyadmin/tbl_structure.php
+0 77 0 1954544 3 1
+/phpmyadmin/themes/pmahomme/img/b_dbstatistics.png
+1 3 0 1512 0 0
+/phpmyadmin/js/tbl_structure.js
+0 132 0 47824 0 0
+/phpmyadmin/js/keyhandler.js
+0 43 0 26252 0 0
+/images/flyers.jpg
+1 9 0 108112 0 0
+/phpmyadmin/js/sql.js
+0 69 0 45560 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+1 23 0 34905 0 0
+/phpmyadmin/favicon.ico
+0 16 0 130260 0 0
+/prueba_mostrar.php
+0 3 0 5820 2 1
+/phpmyadmin/querywindow.php
+0 3 0 13867 1 0
+/phpmyadmin/export.php
+0 13 0 10771 0 4
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_222222_256x240.png
+1 7 0 30583 0 0
+/images/flete.jpg
+1 9 0 113568 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+1 20 0 1946 0 0
+/phpmyadmin/themes/pmahomme/img/s_success.png
+1 18 0 8280 0 0
+/phpmyadmin/tbl_import.php
+0 4 0 19582 0 0
+/custom.css
+0 344 0 138159 0 0
+/images/favico.png
+1 37 0 65196 0 0
+/images/web.jpg
+1 9 0 141560 0 0
+/phpmyadmin/js/jquery/jquery-ui-1.8.16.custom.js
+0 270 0 1387660 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 7 0 770 0 0
+/phpmyadmin/db_structure.php
+0 7 0 67836 0 0
+/phpmyadmin/themes/pmahomme/img/marked_bg.png
+1 13 0 2064 0 0
+/phpmyadmin/tbl_export.php
+0 20 0 105813 2 0
+# End Of Table - urls
+# -sites- (monthly)
+37.211.2.255
+0 2 2 34547 1 1436207872
+/images/
+crawl-66-249-79-228.googlebot.com
+0 2 1 500 1 1436756432
+/
+191.32.191.206.dynamic.adsl.gvt.net.br
+0 2 2 34547 1 1436363137
+/images/
+google-proxy-66-249-93-165.google.com
+0 1 1 34229 1 1436192129
+/images/
+crawl-66-249-64-167.googlebot.com
+0 2 1 500 1 1436649650
+/
+msnbot-207-46-13-66.search.msn.com
+0 2 1 526 1 1436722445
+/
+lcr83-h01-176-149-229-123.dsl.sta.abo.bbox.fr
+0 2 2 34547 1 1435935155
+/images/
+186-216-75-180.uni.mastercabo.com.br
+0 2 2 34547 1 1436101124
+/images/
+cpe-181-47-37-174.telecentro-reversos.com.ar
+0 4887 1998 31329855 44 1437375560
+/local_profile.php
+119.94.68.142.static.pldt.net
+0 2 2 34547 1 1436526068
+/images/
+host30.186-13-3.telmex.net.ar
+0 16 12 1355301 1 1437078909
+/buscador.php
+cpe-181-47-28-246.telecentro-reversos.com.ar
+0 3 2 34730 1 1435956192
+/images/
+msnbot-157-55-39-7.search.msn.com
+0 1 1 318 1 1436083925
+/
+177-124-65-160.skynet.com.br
+0 2 2 34547 1 1436507986
+/images/
+jobqueue-listener.jobqueue.netcraft.com-ua652634b12e74e8f91e065060349b2aau-digitalocean
+0 1 1 532 1 1436568264
+/
+msnbot-207-46-13-9.search.msn.com
+0 2 1 526 1 1437967141
+/
+google-proxy-66-102-8-170.google.com
+0 2 1 501 1 1438105272
+/
+69.171.227.113
+0 2 2 636 2 1437444182
+/
+69.171.227.114
+0 1 1 318 1 1436196672
+/
+customer-static-210-31-97.iplannetworks.net
+0 208 152 4000038 11 1436204980
+/phpmyadmin/navigation.php
+cpe-181-47-46-57.telecentro-reversos.com.ar
+0 257 223 5549258 9 1437862373
+/local_profile.php
+173.252.110.118
+0 1 1 318 1 1436157690
+/
+jobqueue-listener.jobqueue.netcraft.com-ubad8ba3b4fa042d5b016b0b773db1468u-digitalocean
+0 1 1 0 1 1436283110
+/
+google-proxy-66-249-93-161.google.com
+0 1 1 318 1 1436192128
+/
+crawl-66-249-64-172.googlebot.com
+0 1 0 182 0 0
+-
+177.19.58.199.static.host.gvt.net.br
+0 2 2 34547 1 1435772595
+/images/
+157.55.2.188
+0 1 1 34229 1 1436014623
+/images/
+bfb90492.virtua.com.br
+0 2 2 34547 1 1435847029
+/images/
+c94baa61.virtua.com.br
+0 2 2 34547 1 1436686038
+/images/
+177.10.198.225.afinet.com.br
+0 2 2 34547 1 1436264419
+/images/
+77-69-101-204.dynamic.cyta.gr
+0 2 2 34547 1 1436697222
+/images/
+google-proxy-66-249-83-183.google.com
+0 7 4 1821 4 1437940935
+/
+smtp1.pentass.com
+0 278 142 3750690 12 1436204998
+-
+google-proxy-66-249-83-186.google.com
+0 10 5 2505 5 1438116582
+/
+b1c15730.virtua.com.br
+0 2 2 34547 1 1436261889
+/images/
+google-proxy-66-249-83-189.google.com
+0 14 7 3507 7 1438075225
+/
+179.181.241.77.dynamic.adsl.gvt.net.br
+0 2 2 34547 1 1435931010
+/images/
+msnbot-157-55-39-53.search.msn.com
+0 3 1 708 1 1436014621
+/
+179-39-130-226.speedy.com.ar
+0 27 22 189899 1 1436651096
+/abm_local.php
+190-175-25-245.speedy.com.ar
+0 13 12 188000 1 1436128230
+/index2.php
+crawl-66-249-75-70.googlebot.com
+0 2 1 500 1 1437290934
+/
+crawl-66-249-64-177.googlebot.com
+0 1 1 318 1 1437439913
+/
+host115.181-111-16.telecom.net.ar
+0 223 108 716336 2 1435964836
+/images/
+crawl-66-249-73-197.googlebot.com
+0 2 1 500 1 1436948758
+/
+www.whois.sc
+0 4 2 1052 2 1437946440
+/
+197.155.76.70.liquidtelecom.net
+0 2 2 34547 1 1435922088
+/images/
+135-10-195-190.cab.prima.net.ar
+0 11 10 1133419 1 1437171884
+/buscador.php
+69.58.178.57
+0 2 1 740 1 1437422399
+/
+178-191-34.dynamic.cyta.gr
+0 2 2 34547 1 1436417871
+/images/
+b1eba1ab.virtua.com.br
+0 2 2 34547 1 1436151141
+/images/
+179-70-19-190.fibertel.com.ar
+0 3 2 34730 1 1436157689
+/images/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+google-proxy-66-102-8-170.google.com
+0 2 1 501 1 1438105272
+/
+google-proxy-66-249-83-186.google.com
+0 2 1 501 1 1438116582
+/
+google-proxy-66-249-83-189.google.com
+0 2 1 501 1 1438075225
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://videos-for-your-business.com
+0 2
+http://success-seo.com/try.php
+0 12
+http://lamaquinasensible.com.ar/abm_local.php
+0 42
+- (Direct Request)
+0 274
+http://www.lamaquinasensible.com.ar/phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.8.16.custom.css
+0 1
+http://lamaquinasensible.com.ar/phpmyadmin/db_structure.php
+0 78
+http://lamaquinasensible.com.ar/local_profile.php
+0 108
+http://lamaquinasensible.com.ar/buscador.php
+0 778
+http://www.google.com/search
+0 1
+http://lamaquinasensible.com.ar/custom.css
+0 123
+http://www.lamaquinasensible.com.ar/custom.css
+0 16
+http://lamaquinasensible.com.ar/phpmyadmin/tbl_import.php
+0 38
+https://www.facebook.com/
+0 1
+http://whois.domaintools.com/lamaquinasensible.com.ar
+0 2
+http://www.lamaquinasensible.com.ar/
+0 3
+http://lamaquinasensible.com.ar/phpmyadmin/index.php
+0 299
+http://lamaquinasensible.com.ar/phpmyadmin/tbl_export.php
+0 140
+http://lamaquinasensible.com.ar/
+0 38
+http://www.lamaquinasensible.com.ar/buscador.php
+0 9
+http://www.lamaquinasensible.com.ar/phpmyadmin/tbl_export.php
+0 17
+http://www.lamaquinasensible.com.ar/phpmyadmin/index.php
+0 24
+http://www.lamaquinasensible.com.ar/abm_local.php
+0 4
+http://www.lamaquinasensible.com.ar/phpmyadmin/
+0 15
+http://www.lamaquinasensible.com.ar/phpmyadmin/phpmyadmin.css.php
+0 36
+http://lamaquinasensible.com.ar/phpmyadmin/import.php
+0 23
+http://lamaquinasensible.com.ar/phpmyadmin/tbl_change.php
+0 76
+http://lamaquinasensible.com.ar/phpmyadmin/tbl_replace.php
+0 60
+http://lamaquinasensible.com.ar/phpmyadmin/tbl_sql.php
+0 142
+http://lamaquinasensible.com.ar/phpmyadmin/tbl_operations.php
+0 4
+http://www.lamaquinasensible.com.ar/phpmyadmin/main.php
+0 18
+http://lamaquinasensible.com.ar/phpmyadmin/querywindow.php
+0 12
+http://lamaquinasensible.com.ar/index.php
+0 1
+http://lamaquinasensible.com.ar/phpmyadmin/navigation.php
+0 610
+http://lamaquinasensible.com.ar/phpmyadmin/server_export.php
+0 3
+http://www.lamaquinasensible.com.ar/phpmyadmin/sql.php
+0 82
+http://buttons-for-website.com
+0 2
+http://lamaquinasensible.com.ar/phpmyadmin/
+0 229
+http://lamaquinasensible.com.ar/phpmyadmin/phpmyadmin.css.php
+0 271
+http://www.lamaquinasensible.com.ar/phpmyadmin/navigation.php
+0 40
+http://lamaquinasensible.com.ar/phpmyadmin/sql.php
+0 1529
+http://lamaquinasensible.com.ar/registro.php
+0 8
+http://www.lamaquinasensible.com.ar/phpmyadmin/tbl_structure.php
+0 30
+http://lamaquinasensible.com.ar/phpmyadmin/tbl_structure.php
+0 538
+http://www.netcraft.com/survey/
+0 1
+http://www.lamaquinasensible.com.ar/reservas.php
+0 1
+http://lamaquinasensible.com.ar/phpmyadmin/main.php
+0 155
+http://www.lamaquinasensible.com.ar/phpmyadmin/tbl_sql.php
+0 12
+http://lamaquinasensible.com.ar/prueba_mostrar.php
+0 6
+http://lamaquinasensible.com.ar/phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.8.16.custom.css
+0 48
+http://lamaquinasensible.com.ar/phpmyadmin/server_databases.php
+0 8
+http://lamaquinasensible.com.ar/index2.php
+0 12
+http://www.lamaquinasensible.com.ar/index2.php
+0 42
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+0 96
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:38.0) Gecko/20100101 Firefox/38.0
+0 223
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 895
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 21
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+0 116
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 21
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+0 117
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+0 14
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+0 27
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MANMJS; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+0 3741
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+0 499
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 3
+Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mo
+0 28
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+0 100
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.125 Safari/537.36 OPR/30.0.1835.8
+0 16
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Google favicon
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 28
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MANMJS; rv:11.0) like Gecko
+0 14
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
